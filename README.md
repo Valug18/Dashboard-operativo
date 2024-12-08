@@ -35,3 +35,5 @@ Se añadieron medidas DAX avanzadas para calcular tiempos de reacción y otras m
 - Visualización Geoespacial: Uso de mapas interactivos para representar datos espaciales.
 - Narrativa de Datos: Construcción de historias visuales efectivas que conectan métricas clave con acciones operativas.
 
+### Nota
+Este tablero ha sido anonimizado para proteger la confidencialidad de los datos originales, manteniendo su estructura y diseño como ejemplo de mis habilidades en análisis de datos y visualización.
